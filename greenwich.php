@@ -1,3 +1,3 @@
 <?php 
-echo"<h1> This is Greenwich University </h1>";
+echo"<h1> This is Greenwich University. Hello new student! </h1>";
 ?>
