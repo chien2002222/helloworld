@@ -23,6 +23,7 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FCJ8GsMLl_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         <footer>
+        <div class="clear"></div>
    <div class="content">
      <div class="left box">
        <div class="upper">
